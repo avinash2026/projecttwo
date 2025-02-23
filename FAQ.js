@@ -16,3 +16,4 @@ accordians.forEach(accordian =>{
         }
     })
 })
+
